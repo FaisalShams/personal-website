@@ -42,6 +42,7 @@ section{
     float: left;
     margin-left: 2%;
     padding-left: 1%;
+    text-align: center;
 }
 .single-rahim{
     box-shadow: 10px 10px 40px gray;
@@ -52,7 +53,20 @@ section{
 #red{
     color: red;
 }
-.last-part{
+.conclusion{
+    width: 50%;
+    height: 5%;
+    float: left;
+    margin-left: 22%;
+    padding-left: 10%;
+    background-position: right;
+    border-radius: 20px;
     background-image: url(photos/banner4.png);
-    background-repeat: no-repeat;
+}
+.new-inquiry{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 10%;
+    height: 30%;
 }

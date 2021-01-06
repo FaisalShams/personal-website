@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.welcome{
+    color: green;
+}
+.name{
+    color: orange;
+}
+.one-fourth{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+}
+.one-fourth img{
+    width: 100%;
+}
+.first-banner{
+    background-image: url(photos/banner1.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.projects img{
+    width: 100%;
+}
+.projects{
+    width: 100%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+}
+.single-rahim{
+    box-shadow: 10px 10px 40px gray;
+    border border-radius: 10px;
+    height: 80%;
+    background-color: white;
+}
+#red{
+    color: red;
+}
+.last-part{
+    background-image: url(photos/banner4.png);
+    background-repeat: no-repeat;
+}
